@@ -6,7 +6,7 @@ This repository is intended solely for testing purposes. It is not meant for
 production or commercial use. Its primary purpose is to experiment with various
 technologies, tools, and interesting concepts I encounter.
 
-# Navigating the repository
+## Navigating the repository
 
 The repository is structured in a way that makes it easy to navigate and find
 the information you need. Here's a brief overview of the structure:
