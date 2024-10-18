@@ -7,7 +7,7 @@ production use, neither is it intended for any form of commercial use. It's
 sole purpose is to test and experiment with different technologies, tools and
 interesting stuff i might come across.
 
-# Navigation the repository
+# Navigating the repository
 
 The repository is structured in a way that makes it easy to navigate and find
 the information you need. Here's a brief overview of the structure:
