@@ -32,7 +32,14 @@ and network performance.
 additional network interfaces for the mini desktops, allowing for better
 network management and failover if desired.
 
-## Objectives
+## Objectives Network
+
+1. **VLANS**: Create and configure VLANS on the switch to segment the network.
+2. **Inter-VLAN Routing**: Configure the router to allow communication between vlans.
+3. **DHCP**: Setup a DHCP server to provide IP addresses to devices on the network.
+4. **Port Security**: Enable port security on the switch to prevent unauthorized access.
+
+## Objectives Server
 
 1. **Setup and Configuration**: Install and configure `XCP-NG` on the mini
 desktops, ensuring they are properly networked and can communicate with each
