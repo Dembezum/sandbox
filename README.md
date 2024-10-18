@@ -1,11 +1,10 @@
 # Project Repository
 
-Repository for projects i might start, make and or finish.
+Repository for projects I might start, create, or complete.
 
-This repository is for testing purposes only. And is not intended for
-production use, neither is it intended for any form of commercial use. It's
-sole purpose is to test and experiment with different technologies, tools and
-interesting stuff i might come across.
+This repository is intended solely for testing purposes. It is not meant for
+production or commercial use. Its primary purpose is to experiment with various
+technologies, tools, and interesting concepts I encounter.
 
 # Navigating the repository
 
