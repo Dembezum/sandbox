@@ -16,10 +16,11 @@ environment for testing new software, configurations, and network setups. By
 using `XCP-NG`, we can efficiently manage resources and provide isolated
 environments for different users and projects.
 
-## Hardware
+## Hardware Requirements
 
 The hardware setup for this project includes:
 
+- A way of connecting the setup to the internet (WAN).
 - **3 x Mini desktops**: These will serve as the physical hosts for the
 `XCP-NG` hypervisor. Each mini desktop will contribute to the pool, providing
 CPU, memory, and storage resources for the VMs.
