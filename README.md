@@ -1,6 +1,6 @@
-# Sandbox Repository
+# Sandbox Environment
 
-Official sandbox repository for projects i might start, make and or finish.
+Repository for projects i might start, make and or finish.
 
 This repository is for testing purposes only. And is not intended for
 production use, neither is it intended for any form of commercial use. It's
